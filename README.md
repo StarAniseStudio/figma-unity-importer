@@ -9,7 +9,9 @@
 
 右键创建导入任务/Create/Figma/Import Task
 
-figma中右键节点，Copy/Paste as /Copy link to selection,赋值链接到任务面板中
+figma中右键节点，Copy/Paste as /Copy link to selection,复制链接到任务面板中
+
+点击导入，完成
 
 
 **开发者**: StarAnise Studio
